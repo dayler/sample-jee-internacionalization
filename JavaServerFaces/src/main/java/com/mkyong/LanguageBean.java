@@ -57,4 +57,8 @@ public class LanguageBean implements Serializable{
 
 	}
 
+    public String getTestText() {
+        return "hello";
+    }
+
 }
