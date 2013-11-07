@@ -26,3 +26,4 @@ dist/
 
 # Exclude lib folder just for maven
 WEB-INF/lib/
+
